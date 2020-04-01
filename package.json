@@ -1,0 +1,27 @@
+{
+  "name": "chat_application",
+  "version": "1.0.0",
+  "description": "A real time chatting environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhaditya8499/Chat-Application.git"
+  },
+  "keywords": [
+    "Chat"
+  ],
+  "author": "Aditya Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singhaditya8499/Chat-Application/issues"
+  },
+  "homepage": "https://github.com/singhaditya8499/Chat-Application#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "socket.io": "^2.3.0"
+  }
+}
